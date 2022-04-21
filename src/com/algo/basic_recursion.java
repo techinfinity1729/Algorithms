@@ -4,7 +4,7 @@ public class basic_recursion {
     public static void main(String[] args) {
         //System.out.println(factorial(4));
         //System.out.println(sum_natural(4));
-        System.out.println(recursive_power(2,3));
+        //System.out.println(recursive_power(2,3));
 
     }
 
