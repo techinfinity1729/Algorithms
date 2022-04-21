@@ -43,7 +43,7 @@ public class basic_recursion {
         }
     }
 
-    // Recursive Program For Calculating A^B .
+    // Recursive Program For Calculating A raised to power of B .
 
     private static  int recursive_power(int a , int b){
         if(a<0 || b<0){
